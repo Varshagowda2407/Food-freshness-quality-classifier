@@ -1,0 +1,16 @@
+```text
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.cache/
+models/
+huggingface/
+*.pt
+*.bin
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
